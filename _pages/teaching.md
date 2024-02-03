@@ -8,35 +8,56 @@ author_profile: true
 # Instructor at the University of Illinois at Urbana Champaign
 ---
 ## Business Analytics II
-**Topic:** 
-   * Intro to Python,
-   * Predictive Analytics,
-   * Linear Regression,
-   * Logistic Regression,
-   * Intro to Classification,
-   * Decision Tree,
+**Topic** 
+   * Intro to Predictive Analytics
+   * Linear Regression
+   * Logistic Regression
+   * Intro to Classification
+   * Decision Tree
    * Random Forest
 
-**Programming Language:** Python
+**Programming Language** 
+   * Python
 
-## Ph.D. Seminar -- Causal Inference
-**Topic:** Potential Outcome Framework, Pearl's Framework (Directed Acyclic Graphs), Matching, Field Experiment, Natural Experiment, 2X2 Difference-in-Differences (DID), Staggered DID, Stacked DID, Synthetic Control, Synthetic DID, Instrumental Variable, Regression Discontinuity Design, Machine Learning for Causal Inference
+## Ph.D. Seminar on Causal Inference
+**Topic** 
+   * Potential Outcome Framework
+   * Pearl's Framework (Directed Acyclic Graphs)
+   * Matching
+   * Field Experiment
+   * Natural Experiment and 2X2 Difference-in-Differences (DID)
+   * Staggered DID
+   * Stacked DID
+   * Synthetic Control
+   * Synthetic DID
+   * Instrumental Variable
+   * Regression Discontinuity Design
+   * Machine Learning for Causal Inference
 
 # Instructor at Singapore Management University
 ---
 ## Analytics Foundation
-**Topic:** Data Visualization (Tableau + Python), K-means Clustering, Association Rule Mining, Intro to Classification, Decision Tree
+**Topic** 
+   * Data Visualization Using Tableau and Python
+   * K-means Clustering
+   * Association Rule Mining
+   * Intro to Classification
+   * Decision Tree
 
-**Programming Language:** Python
+**Programming Language** 
+   * Python
 
 ## Introduction to Artificial Intelligence
-**Topic:** Bayesian Network, Artificial Neural Network, Convolutional Neural Network, Recurrent Neural Network, Reinforcement Learning
+**Topic** 
+   * Bayesian Network
+   * Artificial Neural Network
+   * Convolutional Neural Network
+   * Recurrent Neural Network
+   * Reinforcement Learning
 
-**Programming Language:** Python
+**Programming Language** 
+   * Python
 
 # Lab Instructor at the University of Rochester
 ---
-## Programming for Analytics
-**Topic:** Intro to R programming
-
-**Programming Language:** R
+## R Programming for Analytics
