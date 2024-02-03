@@ -7,8 +7,11 @@ author_profile: true
 
 # Instructor at the University of Illinois at Urbana Champaign
 ---
-1. Business Analytics II
-2. Ph.D. Seminar -- Causal Inference
+## 1. Business Analytics II
+   **Topic:** Intro to Python, Predictive Analytics, Linear Regression, Logistic Regression, Intro to Classification, Decision Tree, Random Forest
+   **Programming Language:** Python
+
+## 2. Ph.D. Seminar -- Causal Inference
 
 # Instructor at Singapore Management University
 ---
