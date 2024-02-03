@@ -17,3 +17,5 @@ I am an Assistant Professor of Business Administration at the [Gies College of B
 
 **Methodology:** Causal Inference, Machine Learning
 
+## Contact
+**Email:** ygao1@illinois.edu
