@@ -8,11 +8,19 @@ author_profile: true
 # Instructor at the University of Illinois at Urbana Champaign
 ---
 ## Business Analytics II
-**Topic:** Intro to Python, Predictive Analytics, Linear Regression, Logistic Regression, Intro to Classification, Decision Tree, Random Forest
+**Topic:** 
+   * Intro to Python,
+   * Predictive Analytics,
+   * Linear Regression,
+   * Logistic Regression,
+   * Intro to Classification,
+   * Decision Tree,
+   * Random Forest
 
 **Programming Language:** Python
 
 ## Ph.D. Seminar -- Causal Inference
+**Topic:** Potential Outcome Framework, Pearl's Framework (Directed Acyclic Graphs), Matching, Field Experiment, Natural Experiment, 2X2 Difference-in-Differences (DID), Staggered DID, Stacked DID, Synthetic Control, Synthetic DID, Instrumental Variable, Regression Discontinuity Design, Machine Learning for Causal Inference
 
 # Instructor at Singapore Management University
 ---
