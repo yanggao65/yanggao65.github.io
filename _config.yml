@@ -75,7 +75,7 @@ yandex_site_verification :
 analytics:
   provider               :  "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : UA-167489674-1
+    tracking_id          : G-M1WB0NZ6TL # UA-167489674-1
 
 
 # Site Author
