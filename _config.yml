@@ -84,7 +84,7 @@ author:
   avatar           : "Headshot1.JPG"
   bio              : "Assistant Professor of Business Administration"
   # location         : "Location"
-  employer         :
+  employer         : "Gies Collge of Business, University of Illinois Urbana-Champaign"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Gnf853UAAAAJ&hl=en&inst=17953555581762502877"
   email            : "ygao1@illinois.edu"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  # LinkedIn         : "https://www.linkedin.com/in/yang-gao-81b382a4/"
+  LinkedIn         : #"https://www.linkedin.com/in/yang-gao-81b382a4/"
   # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
