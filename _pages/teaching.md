@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 # Instructor at the University of Illinois at Urbana Champaign
----
 ## Business Analytics II
+---
 **Topic** 
    * Intro to Predictive Analytics
    * Linear Regression
@@ -20,6 +20,7 @@ author_profile: true
    * Python
 
 ## Ph.D. Seminar on Causal Inference
+---
 **Topic** 
    * Potential Outcome Framework
    * Pearl's Framework (Directed Acyclic Graphs)
@@ -35,8 +36,8 @@ author_profile: true
    * Machine Learning for Causal Inference
 
 # Instructor at Singapore Management University
----
 ## Analytics Foundation
+---
 **Topic** 
    * Data Visualization Using Tableau and Python
    * K-means Clustering
@@ -48,6 +49,7 @@ author_profile: true
    * Python
 
 ## Introduction to Artificial Intelligence
+---
 **Topic** 
    * Bayesian Network
    * Artificial Neural Network
@@ -59,5 +61,4 @@ author_profile: true
    * Python
 
 # Lab Instructor at the University of Rochester
----
 ## R Programming for Analytics
