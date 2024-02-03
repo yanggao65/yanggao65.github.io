@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Yang Gao"
-  avatar           : "profile.png"
+  avatar           : "Headshot.JPG"
   bio              : "Assistant Professor of Business Administration"
   # location         : "Location"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  # googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=Gnf853UAAAAJ&hl=en&inst=17953555581762502877"
   email            :
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
