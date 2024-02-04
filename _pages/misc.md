@@ -1,6 +1,6 @@
 # My Cat "Ice Cream"
 
-| ![](/images/calcium gluconate.png?raw=true) | 
+| ![](</images/calcium gluconate.png?raw=true>) | 
 |:--:| 
 | *Space* |
 
