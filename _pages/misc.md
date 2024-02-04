@@ -1,12 +1,10 @@
 ---
-permalink: /misc
+layout: archive
 title: ""
-excerpt: "Misc"
+permalink: /misc/
 author_profile: true
-redirect_from: 
-  - /misc/
-  - /misc.html
 ---
+
 
 # My Cat "Ice Cream"
 
