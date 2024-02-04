@@ -10,4 +10,4 @@ author_profile: true
 
 <img src="/images/misc/cat1.jpg" width="70%">
 
-<img src="/images/misc/cat3.JPG" height="50%">
+<img src="/images/misc/cat3.JPG" height="30%">
