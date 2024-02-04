@@ -11,8 +11,8 @@ author_profile: true
 | ![](</images/misc/cat1.jpg?raw=true>) | 
 |:--:| 
 
-| ![](</images/misc/cat2.jpg?raw=true>) | 
+| ![](</images/misc/cat2.JPG?raw=true>) | 
 |:--:| 
 
-| ![](</images/misc/cat3.jpg?raw=true>) | 
+| ![](</images/misc/cat3.JPG?raw=true>) | 
 |:--:| 
