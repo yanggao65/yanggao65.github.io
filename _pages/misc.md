@@ -8,6 +8,11 @@ author_profile: true
 
 # "Ice Cream"
 
-<img src="/images/misc/cat1.jpg" width="70%">
+<p align="center">
+  <img src="/images/misc/cat1.jpg" width="70%">
+</p>
 
-<img src="/images/misc/cat3.JPG" height="800">
+<p align="center">
+  <img src="/images/misc/cat3.JPG" height="800">
+</p>
+
