@@ -10,6 +10,5 @@ author_profile: true
 
 | ![](</images/misc/cat1.jpg?raw=true>) | 
 |:--:| 
-| *Space* |
 
-// # Hiking
+
