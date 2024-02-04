@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 
-# My Cat "Ice Cream"
+# "Ice Cream"
 
 | ![](</images/misc/cat1.jpg?raw=true>) | 
 |:--:| 
 | *Space* |
 
-# Hiking
+// # Hiking
