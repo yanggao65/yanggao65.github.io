@@ -10,4 +10,4 @@ author_profile: true
 
 <img src="/images/misc/cat1.jpg" width="50%">
 
-![](</images/misc/cat3.JPG?height=100>)
+<img src="/images/misc/cat3.JPG" height="50%">
