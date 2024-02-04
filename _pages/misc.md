@@ -13,6 +13,6 @@ author_profile: true
 </p>
 
 <p align="center">
-  <img src="/images/misc/cat3.JPG" height="800px">
+  <img src="/images/misc/cat3.JPG" width="50%">
 </p>
 
