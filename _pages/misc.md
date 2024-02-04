@@ -1,6 +1,6 @@
 # My Cat "Ice Cream"
 
-| IMG_3095.heic | 
+| /files/IMG_3095.heic | 
 |:--:| 
 | *Space* |
 
