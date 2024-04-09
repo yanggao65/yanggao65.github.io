@@ -8,9 +8,9 @@ author_profile: true
 
 # "Ice Cream"
 
-<p float="left">
+<p float="center">
   <img src="/images/misc/cat3.jpg" width="50%" />
-  <img src="/images/misc/cat4.jpg" width="50%" />
+  <img src="/images/misc/cat4.JPG" width="50%" />
 </p>
 
 <p align="center">
