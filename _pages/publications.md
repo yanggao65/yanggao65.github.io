@@ -14,6 +14,7 @@ author_profile: true
 
 # Working Papers
 ---
-1. Yang Gao (with Shuaiyu Chen), [Does Smartphone Transform Financial Information Transmission? Evidence from StockTwits](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4642935)
-2. Yang Gao (with Anqi Zhao, Qian Tang). The Effect of Online Follow-up Service on Offline Appointments and Online Consultations: Evidence from Chronic Disease Physicians.
-3. Yang Gao (with Junyuan Ke, Shujing Sun, Huaxia Rui). She? The Role of Perceived Agent Gender in Social Media Customer Service.
+1. Yang Gao (with Maggie Mengqing Zhang, Mikhail Lysyakov) [Is Social Bot Socializing? Evidence from A Microblogging Platform](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4786302)
+2. Yang Gao (with Shuaiyu Chen), [Does Smartphone Transform Financial Information Transmission? Evidence from StockTwits](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4642935)
+3. Yang Gao (with Anqi Zhao, Qian Tang). The Effect of Online Follow-up Service on Offline Appointments and Online Consultations: Evidence from Chronic Disease Physicians.
+4. Yang Gao (with Junyuan Ke, Shujing Sun, Huaxia Rui). She? The Role of Perceived Agent Gender in Social Media Customer Service.
