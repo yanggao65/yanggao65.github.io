@@ -12,9 +12,9 @@ author_profile: true
 3. **Yang Gao**, Wenjing (Wendy) Duan, Huaxia Rui. [Does Social Media Accelerate Product Recalls? Evidence from the Pharmaceutical Industry](https://pubsonline.informs.org/doi/abs/10.1287/isre.2021.1092). _Information Systems Research_, 33(3), 954-977, 2022.
 4. Shujing Sun, **Yang Gao**, Huaxia Rui. [Does Active Service Intervention Drive More Complaints on Social Media? The Roles of Service Quality and Awareness](https://www.tandfonline.com/doi/abs/10.1080/07421222.2021.1958548). _Journal of Management Information Systems_, 38(3), 579-611, 2021
 
-# Working Papers
+<!--Working Papers
 ---
 1. Yang Gao (with Maggie Mengqing Zhang, Mikhail Lysyakov) [Is Social Bot Socializing? Evidence from A Microblogging Platform](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4786302)
 2. Yang Gao (with Shuaiyu Chen), [Does Smartphone Transform Financial Information Transmission? Evidence from StockTwits](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4642935)
 3. Yang Gao (with Anqi Zhao, Qian Tang). The Effect of Online Follow-up Service on Offline Appointments and Online Consultations: Evidence from Chronic Disease Physicians.
-4. Yang Gao (with Junyuan Ke, Shujing Sun, Huaxia Rui). She? The Role of Perceived Agent Gender in Social Media Customer Service.
+4. Yang Gao (with Junyuan Ke, Shujing Sun, Huaxia Rui). She? The Role of Perceived Agent Gender in Social Media Customer Service.-->
