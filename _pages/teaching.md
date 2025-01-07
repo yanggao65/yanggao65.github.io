@@ -11,10 +11,9 @@ author_profile: true
 **Topic** 
    * Intro to Predictive Analytics
    * Linear Regression
-   * Logistic Regression
    * Intro to Classification
-   * Decision Tree
-   * Random Forest
+   * Logistic Regression
+   * Decision Tree & Random Forest
 
 **Programming Language** 
    * Python
