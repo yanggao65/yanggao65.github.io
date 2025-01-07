@@ -13,7 +13,7 @@ I am an Assistant Professor of Business Administration at the [Gies College of B
 
 # Research Interests
 ---
-**Topic:** Social Media, Healthcare, Customer Service
+**Topic:** Social Media, Artificial Intelligence, Healthcare, Customer Service
 
 **Methodology:** Causal Inference, Machine Learning
 
