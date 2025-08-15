@@ -11,11 +11,15 @@ I am an Assistant Professor of Business Administration at the [Gies College of B
 
 
 
+
+
 # Research Interests
 ---
 **Topic:** Social Media, Artificial Intelligence, Misinformation, Customer Service
 
 **Methodology:** Causal Inference, Machine Learning
+
+
 
 
 
@@ -33,6 +37,8 @@ I am an Assistant Professor of Business Administration at the [Gies College of B
 2. Yang Gao (with Shuaiyu Chen), [Does Smartphone Transform Financial Information Transmission? Evidence from StockTwits](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4642935)
 3. Yang Gao (with Anqi Zhao, Qian Tang). The Effect of Online Follow-up Service on Offline Appointments and Online Consultations: Evidence from Chronic Disease Physicians.
 4. Yang Gao (with Junyuan Ke, Shujing Sun, Huaxia Rui). She? The Role of Perceived Agent Gender in Social Media Customer Service.-->
+
+
 
 
 ## Contact
