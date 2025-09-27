@@ -39,13 +39,13 @@ I am an Assistant Professor of Business Administration at the [Gies College of B
 
 # Selected Working Papers
 ---
-1. Junyuan Ke, **Yang Gao**, Huaxia Rui, Shujing Sun, Does Agent Gender Matter? Evidence from Southwest Airlines’ Customer Service on Twitter, R\&R at **_MIS Quarterly_**
+1. Junyuan Ke, **Yang Gao**, Huaxia Rui, Shujing Sun, Does Agent Gender Matter? Evidence from Southwest Airlines’ Customer Service on Twitter, R&R at **_MIS Quarterly_**
 2. **Yang Gao**, Maggie Mengqing Zhang, Huaxia Rui, [Can Crowdchecking Curb Misinformation? Evidence from Community Notes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4992470), Conditionally Accepted at **_Information Systems Research_**
     - **Media Mention:** [The Atlantic](https://www.theatlantic.com/technology/archive/2025/05/meta-community-notes/682695/?utm_source=feed); [America Magazine](https://www.americamagazine.org/politics-society/2025/01/13/meta-factchecking-community-notes-249680); [The Conversation](https://theconversation.com/metas-community-notes-program-is-promising-but-needs-to-prioritize-transparency-248324); [MIT Technology Review](https://www.technologyreview.com/2025/05/19/1116367/can-crowdsourced-fact-checking-curb-misinformation-on-social-media/); [Al Jazeera](https://www.aljazeera.com/news/2025/1/10/meta-facebook-to-drop-fact-checkers-what-does-this-mean-for-social-media); [Crusoe](https://crusoe.com.br/noticias/checagem-pela-multidao/); [El Tiempo Latino](https://eltiempolatino.com/2025/01/13/tecnologia/factcheck-zuckerberg-meta-censura/)
     
-4. Adam Shenxiong Li, **Yang Gao**, Huaxia Rui, Maggie Mengqing Zhang, Racial Bias in Crowdchecking: Evidence from Community Notes, R\&R at **_Information Systems Research_**
-5. Maggie Mengqing Zhang, **Yang Gao**, Jingjing Li, Steven L. Johnson, [When Influencers Delegate Replies: How Social AI Agents Shape User Engagement](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5316681), R\&R at **_Information Systems Research_**
-6. Minjie Han, Mikhail Lysyakov, **Yang Gao**, [Breaking the Sound Barrier: Asymmetric Impacts of AI Dubbing on Multilingual Engagement on YouTube](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5320908), R\&R at **_Information Systems Research_**
+4. Adam Shenxiong Li, **Yang Gao**, Huaxia Rui, Maggie Mengqing Zhang, Racial Bias in Crowdchecking: Evidence from Community Notes, R&R at **_Information Systems Research_**
+5. Maggie Mengqing Zhang, **Yang Gao**, Jingjing Li, Steven L. Johnson, [When Influencers Delegate Replies: How Social AI Agents Shape User Engagement](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5316681), R&R at **_Information Systems Research_**
+6. Minjie Han, Mikhail Lysyakov, **Yang Gao**, [Breaking the Sound Barrier: Asymmetric Impacts of AI Dubbing on Multilingual Engagement on YouTube](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5320908), R&R at **_Information Systems Research_**
 
 
 
