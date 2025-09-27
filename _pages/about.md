@@ -32,7 +32,7 @@ I am an Assistant Professor of Business Administration at the [Gies College of B
 5. Shujing Sun, **Yang Gao**, Huaxia Rui. [Does Active Service Intervention Drive More Complaints on Social Media? The Roles of Service Quality and Awareness](https://www.tandfonline.com/doi/abs/10.1080/07421222.2021.1958548). _**Journal of Management Information Systems**_, 38(3), 579-611, 2021
 
 <!--
-# Working Papers
+# Selected Working Papers
 ---
 1. Junyuan Ke, **Yang Gao**, Huaxia Rui, Shujing Sun, Does Agent Gender Matter? Evidence from Southwest Airlines’ Customer Service on Twitter, R\&R at **_MIS Quarterly_**
 2. **Yang Gao**, Maggie Mengqing Zhang, Huaxia Rui, Can Crowdchecking Curb Misinformation? Evidence from Community Notes, Conditionally Accepted at **_Information Systems Research_**
