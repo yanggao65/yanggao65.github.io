@@ -30,13 +30,10 @@ I am an Assistant Professor of Business Administration at the [Gies College of B
 2. **Yang Gao**, Maggie Mengqing Zhang, Mikhail Lysyakov. [Does Social Bot Help Socialize? Evidence from a Microblogging Platform](https://pubsonline.informs.org/doi/abs/10.1287/isre.2024.1089). _**Information Systems Research**_, Forthcoming.
 3. **Yang Gao**, Huaxia Rui, Shujing Sun. [The Power of Identity Cues in Text-Based Customer Service: Evidence from Twitter](https://misq.umn.edu/the-power-of-identity-cues-in-text-based-customer-service-evidence-from-twitter.html). _**MIS Quarterly**_, 47(3), 983-1014, 2023.
 4. **Yang Gao**, Meng Li, Shujing Sun. [Field Experiments in Operations Management](https://onlinelibrary.wiley.com/doi/abs/10.1002/joom.1240). _**Journal of Operations Management**_, 69(4), 676-701, 2023.
-      
       - **Top Cited Article** in Journal of Operations Management in 2023
 5. **Yang Gao**, Wenjing (Wendy) Duan, Huaxia Rui. [Does Social Media Accelerate Product Recalls? Evidence from the Pharmaceutical Industry](https://pubsonline.informs.org/doi/abs/10.1287/isre.2021.1092). _**Information Systems Research**_, 33(3), 954-977, 2022.
-      
       - **Best Paper in Track Award**, ICIS 2021
       - **Media Mention:** [Financial Times](https://www.ft.com/content/e1461081-ca5f-469a-a1e7-7f560a138ee1)
-    
 6. Shujing Sun, **Yang Gao**, Huaxia Rui. [Does Active Service Intervention Drive More Complaints on Social Media? The Roles of Service Quality and Awareness](https://www.tandfonline.com/doi/abs/10.1080/07421222.2021.1958548). _**Journal of Management Information Systems**_, 38(3), 579-611, 2021
 
 # Selected Working Papers
