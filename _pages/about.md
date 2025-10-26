@@ -36,12 +36,12 @@ I am an Assistant Professor of Business Administration at the [Gies College of B
       - **Media Mention:** [Financial Times](https://www.ft.com/content/e1461081-ca5f-469a-a1e7-7f560a138ee1)
 6. Shujing Sun, **Yang Gao**, Huaxia Rui. [Does Active Service Intervention Drive More Complaints on Social Media? The Roles of Service Quality and Awareness](https://www.tandfonline.com/doi/abs/10.1080/07421222.2021.1958548). _**Journal of Management Information Systems**_, 38(3), 579-611, 2021
 
-# Selected Working Papers
+<!--# Selected Working Papers
 ---
 1. Junyuan Ke, **Yang Gao**, Huaxia Rui, Shujing Sun, Does Agent Gender Matter? Evidence from Southwest Airlines’ Customer Service on Twitter, R&R at **_MIS Quarterly_**    
 2. Adam Shenxiong Li, **Yang Gao**, Huaxia Rui, Maggie Mengqing Zhang, Racial Bias in Crowdchecking: Evidence from Community Notes, R&R at **_Information Systems Research_**
 3. Maggie Mengqing Zhang, **Yang Gao**, Jingjing Li, Steven L. Johnson, [When Influencers Delegate Replies: How Social AI Agents Shape User Engagement](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5316681), R&R at **_Information Systems Research_**
-4. Minjie Han, Mikhail Lysyakov, **Yang Gao**, [Breaking the Sound Barrier: Asymmetric Impacts of AI Dubbing on Multilingual Engagement on YouTube](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5320908), R&R at **_Information Systems Research_**
+4. Minjie Han, Mikhail Lysyakov, **Yang Gao**, [Breaking the Sound Barrier: Asymmetric Impacts of AI Dubbing on Multilingual Engagement on YouTube](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5320908), R&R at **_Information Systems Research_**-->
 
 
 
