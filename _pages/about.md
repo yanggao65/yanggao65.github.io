@@ -54,10 +54,11 @@ redirect_from:
           <div class="kh-preview__mention-links">
             <a href="https://www.press.org/newsroom/crowd-checking-online-misinformation-might-actually-work-research-shows">National Press Club</a>
             <a href="https://www.theatlantic.com/technology/archive/2025/05/meta-community-notes/682695/?utm_source=feed">The Atlantic</a>
-            <a href="https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/Can-Crowdchecking-Curb-Misinformation-Research-Shows-It-Can-Change-What-People-Do-to-Their-Misleading-Posts">INFORMS</a>
+            <a href="https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/Can-Crowdchecking-Curb-Misinformation-Research-Shows-It-Can-Change-What-People-Do-to-Their-Misleading-Posts">INFORMS News Release</a>
             <a href="https://www.technologyreview.com/2025/05/19/1116367/can-crowdsourced-fact-checking-curb-misinformation-on-social-media/">MIT Technology Review</a>
+            <a href="https://rochesterbeacon.com/2026/01/19/is-crowd-checking-a-cure-for-misinformation/">Rochester Beacon</a>
             <a href="https://giesbusiness.illinois.edu/news/2024/11/18/study--community-notes-on-x-could-be-key-to-curbing-misinformation">Gies News</a>
-            <a href="https://www.rochester.edu/newscenter/crowdsourcing-fact-checking-community-notes-social-media-676142/">Rochester News</a>
+            <a href="https://www.rochester.edu/newscenter/crowdsourcing-fact-checking-community-notes-social-media-676142/">University of Rochester News Center</a>
             <a href="https://www.aljazeera.com/news/2025/1/10/meta-facebook-to-drop-fact-checkers-what-does-this-mean-for-social-media">Al Jazeera</a>
             <a href="https://theconversation.com/metas-community-notes-program-is-promising-but-needs-to-prioritize-transparency-248324">The Conversation</a>
             <a href="https://www.americamagazine.org/politics-society/2025/01/13/meta-factchecking-community-notes-249680">America Magazine</a>
@@ -94,7 +95,7 @@ redirect_from:
         <div class="kh-preview__mentions">
           <span class="kh-preview__mention-label">Media</span>
           <div class="kh-preview__mention-links">
-            <a href="https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/Research-Finds-AI-Powered-Bots-Increase-Social-Media-Post-Engagement-but-Do-Not-Boost-Overall-User-Activity">INFORMS</a>
+            <a href="https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/Research-Finds-AI-Powered-Bots-Increase-Social-Media-Post-Engagement-but-Do-Not-Boost-Overall-User-Activity">INFORMS News Release</a>
             <a href="https://giesbusiness.illinois.edu/news/2025/11/17/platforms-launch-chatbots-to-help-users--socialize---but-do-they-work">Gies News</a>
             <a href="https://www.eurekalert.org/news-releases/1103154">EurekAlert</a>
             <a href="https://techxplore.com/news/2025-10-ai-powered-bots-social-media.html">TechXplore</a>
