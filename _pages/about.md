@@ -43,12 +43,18 @@ redirect_from:
       <article class="kh-preview__paper">
         <div class="kh-preview__paper-heading">
           <h4><a href="https://pubsonline.informs.org/doi/abs/10.1287/isre.2025.2270">When Influencers Delegate Replies: How Social AI Agents Shape User Engagement</a></h4>
-          <div class="kh-preview__paper-actions" aria-label="Paper links">
-            <a class="kh-preview__paper-button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5316681">Paper</a>
-            <span class="kh-preview__paper-button kh-preview__paper-button--disabled">Slides</span>
-          </div>
         </div>
         <p class="kh-preview__paper-meta">Maggie Mengqing Zhang, <strong>Yang Gao</strong>, Jingjing Li, Steven L. Johnson. Forthcoming at <strong><em>Information Systems Research</em></strong>.</p>
+        <div class="kh-preview__paper-actions kh-preview__paper-actions--below" aria-label="Paper links">
+          <details class="kh-preview__abstract">
+            <summary>Abstract</summary>
+            <div class="kh-preview__abstract-body">
+              <p>As social media platforms deploy large language model (LLM)-powered agents to help influencers manage social relationships with users, it remains unclear how this delegation impacts user engagement. Automating interactions provides scalability and efficiency for influencers, but it may weaken the influencer-user relationship if the agents fail to serve as effective social delegates. To explore this question, we empirically investigate the impact on user engagement when influencers delegate social interaction tasks, such as replying to comments, to a social artificial intelligence (AI) agent, an LLM-powered proxy that responds on behalf of an influencer. Leveraging the rollout of a social AI agent feature on a major social media platform, we use a staggered difference-in-differences design to compare engagement behaviors between users who received an AI reply (i.e., a reply from an influencer's social AI agent) and those who did not. Our results show that receiving an AI reply significantly increases user commenting on subsequent influencer posts, particularly when AI replies amplify an influencer's social presence, as reflected in content relevance, stylistic alignment, and reply timeliness. We also find heterogeneous effects based on influencer-user relationships: engagement gains are stronger among loyal followers but weaker for commercialized influencers and those in the technology domain. Additionally, reply scarcity amplifies the effect: engagement increases more when influencers rarely replied previously or when fewer AI replies appear under the focal post. The engagement boost extends to both sponsored and nonsponsored posts, as well as user reposting behavior, whereas influencers themselves also post more frequently after adopting AI agents. This study contributes to the literature on AI delegation and influencer engagement by highlighting when and how delegating social relationship management to social AI agents can enhance user engagement.</p>
+            </div>
+          </details>
+          <a class="kh-preview__paper-button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5316681">Paper</a>
+          <span class="kh-preview__paper-button kh-preview__paper-button--disabled">Slides</span>
+        </div>
         <div class="kh-preview__mentions">
           <span class="kh-preview__mention-label">Media</span>
           <div class="kh-preview__mention-links">

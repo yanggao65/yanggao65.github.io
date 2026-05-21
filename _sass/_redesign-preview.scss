@@ -228,12 +228,19 @@ body.redesign-preview .page__content {
 .kh-preview__paper-actions {
   display: flex;
   flex: 0 0 auto;
+  flex-wrap: wrap;
   gap: 0.4rem;
   padding-top: 0.03rem;
 }
 
+.kh-preview__paper-actions--below {
+  margin-top: 0.72rem;
+}
+
 .kh-preview__paper-button,
-.kh-preview__paper-button:hover {
+.kh-preview__paper-button:hover,
+.kh-preview__abstract summary,
+.kh-preview__abstract summary:hover {
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -251,7 +258,8 @@ body.redesign-preview .page__content {
   white-space: nowrap;
 }
 
-.kh-preview__paper-button:hover {
+.kh-preview__paper-button:hover,
+.kh-preview__abstract summary:hover {
   border-color: #b88974;
   color: #5b2f1e;
 }
@@ -270,6 +278,41 @@ body.redesign-preview .page__content {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   font-size: 0.93rem;
   line-height: 1.55;
+}
+
+.kh-preview__abstract {
+  display: contents;
+}
+
+.kh-preview__abstract summary {
+  list-style: none;
+  cursor: pointer;
+}
+
+.kh-preview__abstract summary::-webkit-details-marker {
+  display: none;
+}
+
+.kh-preview__abstract[open] summary {
+  border-color: #b88974;
+  background: #f7eee7;
+  color: #5b2f1e;
+}
+
+.kh-preview__abstract-body {
+  flex: 0 0 100%;
+  margin-top: 0.45rem;
+  padding: 0.85rem 1rem;
+  border-left: 3px solid #d7cabb;
+  background: #fffdf9;
+  color: #4d463f;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 0.9rem;
+  line-height: 1.62;
+}
+
+.kh-preview__abstract-body p {
+  margin: 0;
 }
 
 .kh-preview__mentions {
