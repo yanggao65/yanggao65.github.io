@@ -34,6 +34,49 @@ redirect_from:
   <section class="kh-preview__research" aria-labelledby="preview-research">
     <h2 id="preview-research" class="kh-preview__section-title">Research</h2>
 
+    <section class="kh-preview__topic" aria-labelledby="topic-ai">
+      <header class="kh-preview__topic-header">
+        <h3 id="topic-ai">Artificial Intelligence</h3>
+        <p>How social bots and social AI agents shape online user engagement.</p>
+      </header>
+
+      <article class="kh-preview__paper">
+        <div class="kh-preview__paper-heading">
+          <h4><a href="https://pubsonline.informs.org/doi/abs/10.1287/isre.2025.2270">When Influencers Delegate Replies: How Social AI Agents Shape User Engagement</a></h4>
+          <div class="kh-preview__paper-actions" aria-label="Paper links">
+            <a class="kh-preview__paper-button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5316681">Paper</a>
+            <span class="kh-preview__paper-button kh-preview__paper-button--disabled">Slides</span>
+          </div>
+        </div>
+        <p class="kh-preview__paper-meta">Maggie Mengqing Zhang, <strong>Yang Gao</strong>, Jingjing Li, Steven L. Johnson. Forthcoming at <strong><em>Information Systems Research</em></strong>.</p>
+        <div class="kh-preview__mentions">
+          <span class="kh-preview__mention-label">Media</span>
+          <div class="kh-preview__mention-links">
+            <a href="https://giesbusiness.illinois.edu/news/2026/05/07/do-ai-replies-help-influencers-engage-with-their-audience--new-study-says-yes">Gies News</a>
+          </div>
+        </div>
+      </article>
+      <article class="kh-preview__paper">
+        <div class="kh-preview__paper-heading">
+          <h4><a href="https://pubsonline.informs.org/doi/abs/10.1287/isre.2024.1089">Does Social Bot Help Socialize? Evidence from a Microblogging Platform</a></h4>
+          <div class="kh-preview__paper-actions" aria-label="Paper links">
+            <a class="kh-preview__paper-button" href="https://pubsonline.informs.org/doi/abs/10.1287/isre.2024.1089">Paper</a>
+            <span class="kh-preview__paper-button kh-preview__paper-button--disabled">Slides</span>
+          </div>
+        </div>
+        <p class="kh-preview__paper-meta"><strong>Yang Gao</strong>, Maggie Mengqing Zhang, Mikhail Lysyakov. <strong><em>Information Systems Research</em></strong>, 37(1), 416-433, 2026.</p>
+        <div class="kh-preview__mentions">
+          <span class="kh-preview__mention-label">Media</span>
+          <div class="kh-preview__mention-links">
+            <a href="https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/Research-Finds-AI-Powered-Bots-Increase-Social-Media-Post-Engagement-but-Do-Not-Boost-Overall-User-Activity">INFORMS News Release</a>
+            <a href="https://giesbusiness.illinois.edu/news/2025/11/17/platforms-launch-chatbots-to-help-users--socialize---but-do-they-work">Gies News</a>
+            <a href="https://www.eurekalert.org/news-releases/1103154">EurekAlert</a>
+            <a href="https://techxplore.com/news/2025-10-ai-powered-bots-social-media.html">TechXplore</a>
+          </div>
+        </div>
+      </article>
+    </section>
+
     <section class="kh-preview__topic" aria-labelledby="topic-misinformation">
       <header class="kh-preview__topic-header">
         <h3 id="topic-misinformation">Misinformation</h3>
@@ -48,7 +91,7 @@ redirect_from:
             <span class="kh-preview__paper-button kh-preview__paper-button--disabled">Slides</span>
           </div>
         </div>
-        <p class="kh-preview__paper-meta"><strong>Yang Gao</strong>, Maggie Mengqing Zhang, Huaxia Rui. <em>Information Systems Research</em>, forthcoming.</p>
+        <p class="kh-preview__paper-meta"><strong>Yang Gao</strong>, Maggie Mengqing Zhang, Huaxia Rui. <strong><em>Information Systems Research</em></strong>, forthcoming.</p>
         <div class="kh-preview__mentions">
           <span class="kh-preview__mention-label">Media</span>
           <div class="kh-preview__mention-links">
@@ -67,43 +110,6 @@ redirect_from:
       </article>
     </section>
 
-    <section class="kh-preview__topic" aria-labelledby="topic-ai">
-      <header class="kh-preview__topic-header">
-        <h3 id="topic-ai">Artificial Intelligence</h3>
-        <p>How social bots and social AI agents shape online user engagement.</p>
-      </header>
-
-      <article class="kh-preview__paper">
-        <div class="kh-preview__paper-heading">
-          <h4>When Influencers Delegate Replies: How Social AI Agents Shape User Engagement</h4>
-          <div class="kh-preview__paper-actions" aria-label="Paper links">
-            <a class="kh-preview__paper-button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5316681">Paper</a>
-            <span class="kh-preview__paper-button kh-preview__paper-button--disabled">Slides</span>
-          </div>
-        </div>
-        <p class="kh-preview__paper-meta">Maggie Mengqing Zhang, <strong>Yang Gao</strong>, Jingjing Li, Steven L. Johnson. Forthcoming at <em>Information Systems Research</em>.</p>
-      </article>
-      <article class="kh-preview__paper">
-        <div class="kh-preview__paper-heading">
-          <h4>Does Social Bot Help Socialize? Evidence from a Microblogging Platform</h4>
-          <div class="kh-preview__paper-actions" aria-label="Paper links">
-            <a class="kh-preview__paper-button" href="https://pubsonline.informs.org/doi/abs/10.1287/isre.2024.1089">Paper</a>
-            <span class="kh-preview__paper-button kh-preview__paper-button--disabled">Slides</span>
-          </div>
-        </div>
-        <p class="kh-preview__paper-meta"><strong>Yang Gao</strong>, Maggie Mengqing Zhang, Mikhail Lysyakov. <em>Information Systems Research</em>, 37(1), 416-433, 2026.</p>
-        <div class="kh-preview__mentions">
-          <span class="kh-preview__mention-label">Media</span>
-          <div class="kh-preview__mention-links">
-            <a href="https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/Research-Finds-AI-Powered-Bots-Increase-Social-Media-Post-Engagement-but-Do-Not-Boost-Overall-User-Activity">INFORMS News Release</a>
-            <a href="https://giesbusiness.illinois.edu/news/2025/11/17/platforms-launch-chatbots-to-help-users--socialize---but-do-they-work">Gies News</a>
-            <a href="https://www.eurekalert.org/news-releases/1103154">EurekAlert</a>
-            <a href="https://techxplore.com/news/2025-10-ai-powered-bots-social-media.html">TechXplore</a>
-          </div>
-        </div>
-      </article>
-    </section>
-
     <section class="kh-preview__topic" aria-labelledby="topic-customer-service">
       <header class="kh-preview__topic-header">
         <h3 id="topic-customer-service">Customer Service</h3>
@@ -112,35 +118,35 @@ redirect_from:
 
       <article class="kh-preview__paper">
         <div class="kh-preview__paper-heading">
-          <h4>Does Agent Gender Matter? Evidence from Southwest Airlines' Customer Service on Twitter</h4>
+          <h4><a href="https://misq.umn.edu/misq/article-abstract/doi/10.25300/MISQ/2026/19508/3836/Does-Agent-Gender-Matter-Evidence-from-Southwest?redirectedFrom=fulltext">Does Agent Gender Matter? Evidence from Southwest Airlines' Customer Service on Twitter</a></h4>
           <div class="kh-preview__paper-actions" aria-label="Paper links">
             <span class="kh-preview__paper-button kh-preview__paper-button--disabled">Paper</span>
             <span class="kh-preview__paper-button kh-preview__paper-button--disabled">Slides</span>
           </div>
         </div>
-        <p class="kh-preview__paper-meta"><strong>Yang Gao</strong>, Junyuan Ke, Huaxia Rui, Shujing Sun. Forthcoming at <em>MIS Quarterly</em>.</p>
+        <p class="kh-preview__paper-meta"><strong>Yang Gao</strong>, Junyuan Ke, Huaxia Rui, Shujing Sun. Forthcoming at <strong><em>MIS Quarterly</em></strong>.</p>
       </article>
 
       <article class="kh-preview__paper">
         <div class="kh-preview__paper-heading">
-          <h4>The Power of Identity Cues in Text-Based Customer Service: Evidence from Twitter</h4>
+          <h4><a href="https://misq.umn.edu/the-power-of-identity-cues-in-text-based-customer-service-evidence-from-twitter.html">The Power of Identity Cues in Text-Based Customer Service: Evidence from Twitter</a></h4>
           <div class="kh-preview__paper-actions" aria-label="Paper links">
             <a class="kh-preview__paper-button" href="https://misq.umn.edu/the-power-of-identity-cues-in-text-based-customer-service-evidence-from-twitter.html">Paper</a>
             <span class="kh-preview__paper-button kh-preview__paper-button--disabled">Slides</span>
           </div>
         </div>
-        <p class="kh-preview__paper-meta"><strong>Yang Gao</strong>, Huaxia Rui, Shujing Sun. <em>MIS Quarterly</em>, 47(3), 983-1014, 2023.</p>
+        <p class="kh-preview__paper-meta"><strong>Yang Gao</strong>, Huaxia Rui, Shujing Sun. <strong><em>MIS Quarterly</em></strong>, 47(3), 983-1014, 2023.</p>
       </article>
 
       <article class="kh-preview__paper">
         <div class="kh-preview__paper-heading">
-          <h4>Does Active Service Intervention Drive More Complaints on Social Media? The Roles of Service Quality and Awareness</h4>
+          <h4><a href="https://www.tandfonline.com/doi/abs/10.1080/07421222.2021.1958548">Does Active Service Intervention Drive More Complaints on Social Media? The Roles of Service Quality and Awareness</a></h4>
           <div class="kh-preview__paper-actions" aria-label="Paper links">
             <a class="kh-preview__paper-button" href="https://www.tandfonline.com/doi/abs/10.1080/07421222.2021.1958548">Paper</a>
             <span class="kh-preview__paper-button kh-preview__paper-button--disabled">Slides</span>
           </div>
         </div>
-        <p class="kh-preview__paper-meta">Shujing Sun, <strong>Yang Gao</strong>, Huaxia Rui. <em>Journal of Management Information Systems</em>, 38(3), 579-611, 2021.</p>
+        <p class="kh-preview__paper-meta">Shujing Sun, <strong>Yang Gao</strong>, Huaxia Rui. <strong><em>Journal of Management Information Systems</em></strong>, 38(3), 579-611, 2021.</p>
       </article>
     </section>
 
@@ -152,13 +158,13 @@ redirect_from:
 
       <article class="kh-preview__paper">
         <div class="kh-preview__paper-heading">
-          <h4>Does Social Media Accelerate Product Recalls? Evidence from the Pharmaceutical Industry</h4>
+          <h4><a href="https://pubsonline.informs.org/doi/abs/10.1287/isre.2021.1092">Does Social Media Accelerate Product Recalls? Evidence from the Pharmaceutical Industry</a></h4>
           <div class="kh-preview__paper-actions" aria-label="Paper links">
             <a class="kh-preview__paper-button" href="https://pubsonline.informs.org/doi/abs/10.1287/isre.2021.1092">Paper</a>
             <span class="kh-preview__paper-button kh-preview__paper-button--disabled">Slides</span>
           </div>
         </div>
-        <p class="kh-preview__paper-meta"><strong>Yang Gao</strong>, Wenjing (Wendy) Duan, Huaxia Rui. <em>Information Systems Research</em>, 33(3), 954-977, 2022.</p>
+        <p class="kh-preview__paper-meta"><strong>Yang Gao</strong>, Wenjing (Wendy) Duan, Huaxia Rui. <strong><em>Information Systems Research</em></strong>, 33(3), 954-977, 2022.</p>
         <div class="kh-preview__mentions">
           <span class="kh-preview__mention-label">Award</span>
           <div class="kh-preview__mention-text">Best Paper in Track Award, ICIS 2021.</div>
@@ -173,16 +179,16 @@ redirect_from:
 
       <article class="kh-preview__paper">
         <div class="kh-preview__paper-heading">
-          <h4>Field Experiments in Operations Management</h4>
+          <h4><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/joom.1240">Field Experiments in Operations Management</a></h4>
           <div class="kh-preview__paper-actions" aria-label="Paper links">
             <a class="kh-preview__paper-button" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/joom.1240">Paper</a>
             <span class="kh-preview__paper-button kh-preview__paper-button--disabled">Slides</span>
           </div>
         </div>
-        <p class="kh-preview__paper-meta"><strong>Yang Gao</strong>, Meng Li, Shujing Sun. <em>Journal of Operations Management</em>, 69(4), 676-701, 2023.</p>
+        <p class="kh-preview__paper-meta"><strong>Yang Gao</strong>, Meng Li, Shujing Sun. <strong><em>Journal of Operations Management</em></strong>, 69(4), 676-701, 2023.</p>
         <div class="kh-preview__mentions">
           <span class="kh-preview__mention-label">Recognition</span>
-          <div class="kh-preview__mention-text">Top Cited Article in <em>Journal of Operations Management</em>, 2023.</div>
+          <div class="kh-preview__mention-text">Top Cited Article in <strong><em>Journal of Operations Management</em></strong>, 2023.</div>
         </div>
       </article>
     </section>
