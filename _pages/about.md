@@ -42,9 +42,9 @@ redirect_from:
 
       <article class="kh-preview__paper">
         <div class="kh-preview__paper-heading">
-          <h4>Can Crowdchecking Curb Misinformation? Evidence from Community Notes</h4>
+          <h4><a href="https://pubsonline.informs.org/doi/full/10.1287/isre.2024.1609">Can Crowdchecking Curb Misinformation? Evidence from Community Notes</a></h4>
           <div class="kh-preview__paper-actions" aria-label="Paper links">
-            <a class="kh-preview__paper-button" href="https://pubsonline.informs.org/doi/full/10.1287/isre.2024.1609">Paper</a>
+            <a class="kh-preview__paper-button" href="https://www.dropbox.com/scl/fi/3s48nqk94fk2uw6ec11uv/manuscript.pdf?rlkey=jj9p8pc2zi3paop6l0c3cg597&st=fce0kx2h&dl=0">Paper</a>
             <span class="kh-preview__paper-button kh-preview__paper-button--disabled">Slides</span>
           </div>
         </div>
