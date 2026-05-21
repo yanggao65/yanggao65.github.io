@@ -37,7 +37,7 @@ redirect_from:
     <section class="kh-preview__topic" aria-labelledby="topic-misinformation">
       <header class="kh-preview__topic-header">
         <h3 id="topic-misinformation">Misinformation</h3>
-        <p>How platforms, communities, and institutions respond to misleading information online.</p>
+        <p>Crowd-based fact-checking on social media.</p>
       </header>
 
       <article class="kh-preview__paper">
@@ -69,9 +69,19 @@ redirect_from:
     <section class="kh-preview__topic" aria-labelledby="topic-ai">
       <header class="kh-preview__topic-header">
         <h3 id="topic-ai">Artificial Intelligence</h3>
-        <p>How AI agents and bots change online participation, engagement, and social interaction.</p>
+        <p>How social bots and social AI agents shape online user engagement.</p>
       </header>
 
+      <article class="kh-preview__paper">
+        <div class="kh-preview__paper-heading">
+          <h4>When Influencers Delegate Replies: How Social AI Agents Shape User Engagement</h4>
+          <div class="kh-preview__paper-actions" aria-label="Paper links">
+            <a class="kh-preview__paper-button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5316681">Paper</a>
+            <span class="kh-preview__paper-button kh-preview__paper-button--disabled">Slides</span>
+          </div>
+        </div>
+        <p class="kh-preview__paper-meta">Maggie Mengqing Zhang, <strong>Yang Gao</strong>, Jingjing Li, Steven L. Johnson. Forthcoming at <em>Information Systems Research</em>.</p>
+      </article>
       <article class="kh-preview__paper">
         <div class="kh-preview__paper-heading">
           <h4>Does Social Bot Help Socialize? Evidence from a Microblogging Platform</h4>
@@ -80,7 +90,7 @@ redirect_from:
             <span class="kh-preview__paper-button kh-preview__paper-button--disabled">Slides</span>
           </div>
         </div>
-        <p class="kh-preview__paper-meta"><strong>Yang Gao</strong>, Maggie Mengqing Zhang, Mikhail Lysyakov. <em>Information Systems Research</em>, forthcoming.</p>
+        <p class="kh-preview__paper-meta"><strong>Yang Gao</strong>, Maggie Mengqing Zhang, Mikhail Lysyakov. <em>Information Systems Research</em>, 37(1), 416-433, 2026.</p>
         <div class="kh-preview__mentions">
           <span class="kh-preview__mention-label">Media</span>
           <div class="kh-preview__mention-links">
@@ -91,24 +101,24 @@ redirect_from:
           </div>
         </div>
       </article>
-
-      <article class="kh-preview__paper">
-        <div class="kh-preview__paper-heading">
-          <h4>When Influencers Delegate Replies: How Social AI Agents Shape User Engagement</h4>
-          <div class="kh-preview__paper-actions" aria-label="Paper links">
-            <a class="kh-preview__paper-button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5316681">Paper</a>
-            <span class="kh-preview__paper-button kh-preview__paper-button--disabled">Slides</span>
-          </div>
-        </div>
-        <p class="kh-preview__paper-meta">Maggie Mengqing Zhang, <strong>Yang Gao</strong>, Jingjing Li, Steven L. Johnson. Conditionally accepted at <em>Information Systems Research</em>.</p>
-      </article>
     </section>
 
     <section class="kh-preview__topic" aria-labelledby="topic-customer-service">
       <header class="kh-preview__topic-header">
         <h3 id="topic-customer-service">Customer Service</h3>
-        <p>How identity, intervention, and service design affect customer interactions on digital channels.</p>
+        <p>How to manage customer voices via social media customer service.</p>
       </header>
+
+      <article class="kh-preview__paper">
+        <div class="kh-preview__paper-heading">
+          <h4>Does Agent Gender Matter? Evidence from Southwest Airlines' Customer Service on Twitter</h4>
+          <div class="kh-preview__paper-actions" aria-label="Paper links">
+            <span class="kh-preview__paper-button kh-preview__paper-button--disabled">Paper</span>
+            <span class="kh-preview__paper-button kh-preview__paper-button--disabled">Slides</span>
+          </div>
+        </div>
+        <p class="kh-preview__paper-meta"><strong>Yang Gao</strong>, Junyuan Ke, Huaxia Rui, Shujing Sun. Forthcoming at <em>MIS Quarterly</em>.</p>
+      </article>
 
       <article class="kh-preview__paper">
         <div class="kh-preview__paper-heading">
@@ -131,23 +141,12 @@ redirect_from:
         </div>
         <p class="kh-preview__paper-meta">Shujing Sun, <strong>Yang Gao</strong>, Huaxia Rui. <em>Journal of Management Information Systems</em>, 38(3), 579-611, 2021.</p>
       </article>
-
-      <article class="kh-preview__paper">
-        <div class="kh-preview__paper-heading">
-          <h4>Does Agent Gender Matter? Evidence from Southwest Airlines' Customer Service on Twitter</h4>
-          <div class="kh-preview__paper-actions" aria-label="Paper links">
-            <span class="kh-preview__paper-button kh-preview__paper-button--disabled">Paper</span>
-            <span class="kh-preview__paper-button kh-preview__paper-button--disabled">Slides</span>
-          </div>
-        </div>
-        <p class="kh-preview__paper-meta"><strong>Yang Gao</strong>, Junyuan Ke, Huaxia Rui, Shujing Sun. Conditionally accepted at <em>MIS Quarterly</em>.</p>
-      </article>
     </section>
 
     <section class="kh-preview__topic" aria-labelledby="topic-others">
       <header class="kh-preview__topic-header">
         <h3 id="topic-others">Others</h3>
-        <p>Related work on product safety, firm decisions, field experiments, and empirical methods.</p>
+        <p>Related work on product recall and empirical methods.</p>
       </header>
 
       <article class="kh-preview__paper">
