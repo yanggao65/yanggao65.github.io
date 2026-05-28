@@ -133,34 +133,6 @@ redirect_from:
         <h3 id="topic-customer-service">Customer Voices</h3>
         <p>How to manage customer voices on social media.</p>
       </header>
-
-      <article class="kh-preview__paper">
-        <div class="kh-preview__paper-heading">
-          <h4><a href="https://pubsonline.informs.org/doi/abs/10.1287/isre.2021.1092">Does Social Media Accelerate Product Recalls? Evidence from the Pharmaceutical Industry</a></h4>
-        </div>
-        <p class="kh-preview__paper-meta"><strong>Yang Gao</strong>, Wenjing (Wendy) Duan, Huaxia Rui. <strong><em>Information Systems Research</em></strong>, 33(3), 954-977, 2022.</p>
-        <div class="kh-preview__paper-actions kh-preview__paper-actions--below" aria-label="Paper links">
-          <details class="kh-preview__abstract">
-            <summary>Abstract</summary>
-            <div class="kh-preview__abstract-body">
-              <p>Social media has become a vital platform for voicing product-related experiences that may not only reveal product defects, but also impose pressure on firms to act more promptly than before. This study scrutinizes the rarely studied relationship between these voices and the speed of product recalls in the context of the pharmaceutical industry in which social media pharmacovigilance is becoming increasingly important for the detection of drug safety signals. Using Federal Drug Administration drug enforcement reports and social media data crawled from online forums and Twitter, we investigate whether social media can accelerate the product recall process in the context of drug recalls. Results based on discrete-time survival analyses suggest that more adverse drug reaction discussions on social media lead to a higher hazard rate of the drug being recalled and, thus, a shorter time to recall. To better understand the underlying mechanism, we propose the information effect, which captures how extracting information from social media helps detect more signals and mine signals faster to accelerate product recalls, and the publicity effect, which captures how firms and government agencies are pressured by public concerns to initiate speedy recalls. Estimation results from two mechanism tests support the existence of these conceptualized channels underlying the acceleration hypothesis of social media. This study offers new insights for firms and policymakers concerning the power of social media and its influence on product recalls.</p>
-            </div>
-          </details>
-          <a class="kh-preview__paper-button" href="https://www.dropbox.com/scl/fi/y3nwdi7ry6ki5brpa62hq/Does_Social_Media_Speed_Up_Product_Recalls__Evidence_from_the_Pharmaceutical_Industry.pdf?rlkey=1n9ko5xnbxo0zkldwkddeptok&dl=0">Paper</a>
-          <!-- <span class="kh-preview__paper-button kh-preview__paper-button--disabled">Slides</span> -->
-        </div>
-        <div class="kh-preview__mentions">
-          <span class="kh-preview__mention-label">Award</span>
-          <div class="kh-preview__mention-text">Best Paper in Track Award, ICIS 2021.</div>
-        </div>
-        <div class="kh-preview__mentions">
-          <span class="kh-preview__mention-label">Media</span>
-          <div class="kh-preview__mention-links">
-            <a href="https://www.ft.com/content/e1461081-ca5f-469a-a1e7-7f560a138ee1">Financial Times</a>
-          </div>
-        </div>
-      </article>
-
       <article class="kh-preview__paper">
         <div class="kh-preview__paper-heading">
           <h4><a href="https://misq.umn.edu/misq/article-abstract/doi/10.25300/MISQ/2026/19508/3836/Does-Agent-Gender-Matter-Evidence-from-Southwest?redirectedFrom=fulltext">Does Agent Gender Matter? Evidence from Southwest Airlines' Customer Service on Twitter</a></h4>
@@ -194,6 +166,34 @@ redirect_from:
           <span class="kh-preview__paper-button kh-preview__paper-button--disabled">Slides</span> -->
         </div>
       </article>
+
+      <article class="kh-preview__paper">
+        <div class="kh-preview__paper-heading">
+          <h4><a href="https://pubsonline.informs.org/doi/abs/10.1287/isre.2021.1092">Does Social Media Accelerate Product Recalls? Evidence from the Pharmaceutical Industry</a></h4>
+        </div>
+        <p class="kh-preview__paper-meta"><strong>Yang Gao</strong>, Wenjing (Wendy) Duan, Huaxia Rui. <strong><em>Information Systems Research</em></strong>, 33(3), 954-977, 2022.</p>
+        <div class="kh-preview__paper-actions kh-preview__paper-actions--below" aria-label="Paper links">
+          <details class="kh-preview__abstract">
+            <summary>Abstract</summary>
+            <div class="kh-preview__abstract-body">
+              <p>Social media has become a vital platform for voicing product-related experiences that may not only reveal product defects, but also impose pressure on firms to act more promptly than before. This study scrutinizes the rarely studied relationship between these voices and the speed of product recalls in the context of the pharmaceutical industry in which social media pharmacovigilance is becoming increasingly important for the detection of drug safety signals. Using Federal Drug Administration drug enforcement reports and social media data crawled from online forums and Twitter, we investigate whether social media can accelerate the product recall process in the context of drug recalls. Results based on discrete-time survival analyses suggest that more adverse drug reaction discussions on social media lead to a higher hazard rate of the drug being recalled and, thus, a shorter time to recall. To better understand the underlying mechanism, we propose the information effect, which captures how extracting information from social media helps detect more signals and mine signals faster to accelerate product recalls, and the publicity effect, which captures how firms and government agencies are pressured by public concerns to initiate speedy recalls. Estimation results from two mechanism tests support the existence of these conceptualized channels underlying the acceleration hypothesis of social media. This study offers new insights for firms and policymakers concerning the power of social media and its influence on product recalls.</p>
+            </div>
+          </details>
+          <a class="kh-preview__paper-button" href="https://www.dropbox.com/scl/fi/y3nwdi7ry6ki5brpa62hq/Does_Social_Media_Speed_Up_Product_Recalls__Evidence_from_the_Pharmaceutical_Industry.pdf?rlkey=1n9ko5xnbxo0zkldwkddeptok&dl=0">Paper</a>
+          <!-- <span class="kh-preview__paper-button kh-preview__paper-button--disabled">Slides</span> -->
+        </div>
+        <div class="kh-preview__mentions">
+          <span class="kh-preview__mention-label">Award</span>
+          <div class="kh-preview__mention-text">Best Paper in Track Award, ICIS 2021.</div>
+        </div>
+        <div class="kh-preview__mentions">
+          <span class="kh-preview__mention-label">Media</span>
+          <div class="kh-preview__mention-links">
+            <a href="https://www.ft.com/content/e1461081-ca5f-469a-a1e7-7f560a138ee1">Financial Times</a>
+          </div>
+        </div>
+      </article>
+
 
       <article class="kh-preview__paper">
         <div class="kh-preview__paper-heading">
