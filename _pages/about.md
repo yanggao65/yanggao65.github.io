@@ -99,7 +99,7 @@ redirect_from:
         <div class="kh-preview__paper-heading">
           <h4><a href="https://pubsonline.informs.org/doi/full/10.1287/isre.2024.1609">Can Crowdchecking Curb Misinformation? Evidence from Community Notes</a></h4>
         </div>
-        <p class="kh-preview__paper-meta"><strong>Yang Gao</strong>, Maggie Mengqing Zhang, Huaxia Rui. <strong><em>Information Systems Research</em></strong>, forthcoming.</p>
+        <p class="kh-preview__paper-meta"><strong>Yang Gao</strong>, Maggie Mengqing Zhang, Huaxia Rui. Forthcoming at <strong><em>Information Systems Research</em></strong>.</p>
         <div class="kh-preview__paper-actions kh-preview__paper-actions--below" aria-label="Paper links">
           <details class="kh-preview__abstract">
             <summary>Abstract</summary>
