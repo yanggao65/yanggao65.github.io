@@ -181,7 +181,7 @@ redirect_from:
             </div>
           </details>
           <a class="kh-preview__paper-button" href="https://www.dropbox.com/scl/fi/gmbb1e106fy83mqcxrare/JMIS-10538_SS-Sun_2021May.pdf?rlkey=8p8sq8lsqk9js15s42es5usij&dl=0">Paper</a>
-          <span class="kh-preview__paper-button kh-preview__paper-button--disabled">Slides</span>
+          <!-- <span class="kh-preview__paper-button kh-preview__paper-button--disabled">Slides</span> -->
         </div>
       </article>
     </section>
@@ -232,7 +232,7 @@ redirect_from:
             </div>
           </details>
           <a class="kh-preview__paper-button" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/joom.1240">Paper</a>
-          <span class="kh-preview__paper-button kh-preview__paper-button--disabled">Slides</span>
+          <!-- <span class="kh-preview__paper-button kh-preview__paper-button--disabled">Slides</span> -->
         </div>
         <div class="kh-preview__mentions">
           <span class="kh-preview__mention-label">Recognition</span>
